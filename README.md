@@ -3,9 +3,9 @@
 This is a web based application developed for health related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-*Project link* - http://teluguhealth.southindia.cloudapp.azure.com/
+#### Project link - 
 
-*Project demo video link* -
+#### Project demo video link -
 
 ## Azure Technologies used for Project
 - Static Web Apps
