@@ -39,6 +39,13 @@ This is a web based application developed for health related telugu based websit
 
 ![2023-06-24 (5)](https://github.com/Bhavaniii17/Project1/assets/119057686/7b87185f-3f73-4775-9c37-ea6d2d874ccd)
 
+
+## Health bot -
+
+
+![2023-06-24 (7)](https://github.com/Bhavaniii17/Project1/assets/119057686/9463612b-8084-4b4e-87dd-d5b2ac138da6)
+
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)]
