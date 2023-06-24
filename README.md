@@ -10,7 +10,7 @@ This is a web based application developed for health related telugu based websit
 ## Azure Technologies used for Project
 - Static Web Apps
 - Health bot
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -26,7 +26,7 @@ This is a web based application developed for health related telugu based websit
    ![2023-06-24 (2)](https://github.com/Bhavaniii17/Project1/assets/119057686/ab0626e0-cd90-4f65-8706-36503c622620)
 
 
-## About Us -
+## About Us 
 
 
 
@@ -34,25 +34,25 @@ This is a web based application developed for health related telugu based websit
 
 
 
-## Services -
+## Services 
 
 
 ![2023-06-24 (5)](https://github.com/Bhavaniii17/Project1/assets/119057686/7b87185f-3f73-4775-9c37-ea6d2d874ccd)
 
 
-## Health bot -
+## Health bot 
 
 
 ![2023-06-24 (9)](https://github.com/Bhavaniii17/Project1/assets/119057686/0cd61447-ccb9-428f-8316-372c307cd066)
 
 
-## Blog -
+## Blog 
 
 
 ![2023-06-24 (11)](https://github.com/Bhavaniii17/Project1/assets/119057686/ee644399-0a15-4a52-a4fb-e89dccbdde51)
 
 
-## Contact Us -
+## Contact Us 
 
 
 ![2023-06-24 (13)](https://github.com/Bhavaniii17/Project1/assets/119057686/09d2b0a9-6f45-47c5-8c87-3c7872eca5e2)
