@@ -43,7 +43,8 @@ This is a web based application developed for health related telugu based websit
 ## Health bot -
 
 
-![2023-06-24 (7)](https://github.com/Bhavaniii17/Project1/assets/119057686/9463612b-8084-4b4e-87dd-d5b2ac138da6)
+![2023-06-24 (9)](https://github.com/Bhavaniii17/Project1/assets/119057686/0cd61447-ccb9-428f-8316-372c307cd066)
+
 
 
 ## Tech Stack 💻
