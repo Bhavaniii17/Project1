@@ -30,6 +30,7 @@ This is a web based application developed for health related telugu based websit
 
 
 
+![2023-06-24 (3)](https://github.com/Bhavaniii17/Project1/assets/119057686/7f68c71b-0b01-4c18-b006-9b9473ffc3bc)
 
 
 
