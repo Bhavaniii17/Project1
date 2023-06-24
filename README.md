@@ -22,9 +22,9 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![2023-06-24](https://github.com/Bhavaniii17/Project1/assets/119057686/b1602bc7-e25b-4433-9648-d61e6f970919)
 
-   
+   ![2023-06-24 (2)](https://github.com/Bhavaniii17/Project1/assets/119057686/ab0626e0-cd90-4f65-8706-36503c622620)
+
 
 ## About Us -
 
