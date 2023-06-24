@@ -18,10 +18,11 @@ This is a web based application developed for health related telugu based websit
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement
-  ## Screenshots
+## Screenshots
 
 
 
+![2023-06-24](https://github.com/Bhavaniii17/Project1/assets/119057686/b1602bc7-e25b-4433-9648-d61e6f970919)
 
    
 
@@ -34,7 +35,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)]
 - HTML
 - CSS
 - Bootstrap
